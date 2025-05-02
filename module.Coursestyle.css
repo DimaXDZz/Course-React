@@ -1,0 +1,50 @@
+.boob{
+	text-align: center;
+	background-color: orangered;
+	border-radius: 10px;
+	color: white;
+}
+.list{
+	width:200px;
+	height: 150px;
+	background-color: orangered;
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+	justify-content: center;
+}
+.item{
+		display: flex;
+		width: 30%;
+		justify-content: space-around;
+		flex-wrap: wrap;
+		flex-direction: row;
+		align-items: center;
+		gap: 50px;
+}
+.cover{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 50px;
+	justify-content: center;
+}
+.Button{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+.crt{
+	color: orangered;
+	background-color: white;
+	border-radius: 5px;
+	border-color: orangered;
+}
+.Catalog{
+	display: flex;
+	justify-content: center;
+	width: 500px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	background-color: orangered;
+}
