@@ -1,0 +1,50 @@
+
+{
+"goods":[	{
+		"id":1,
+		"name":"Sofa",
+		"price": 500
+	},
+	{
+		"id":2,
+		"name":"Chair",
+		"price": 300
+	},
+	{
+		"id":3,
+		"name":"Bed",
+		"price": 1000
+	},
+	{
+		"id":4,
+		"name":"Bed",
+		"price": 300
+	},
+	{
+		"id":5,
+		"name":"Bed",
+		"price": 10000
+	},
+	{
+		"id":6,
+		"name":"Bed",
+		"price": 560
+	}
+],
+"hrefs":[
+	{
+		"id":1,
+		"href": "/beds"
+	},
+	{
+		"id":2,
+		"href": "/tables"
+	},
+	{
+		"id":3,
+		"href": "/room"
+	}
+
+
+]
+}
